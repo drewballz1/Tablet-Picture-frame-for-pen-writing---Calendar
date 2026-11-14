@@ -2,6 +2,9 @@
 
 A 3D-printed mount that puts a **Lenovo Idea Tab Pro 12.7" (TB373FU)** inside an ordinary **11 × 17" teak picture frame**, so it hangs on a drywall wall like a framed print. The tablet shows a family calendar; a white mat and a printed liner hide the bezel; the stylus lives on a magnetic charger on the side of the frame; power comes in through a USB-C socket at the bottom edge.
 
+![Concept mockup: the finished frame on a wall, with the pen charger on its right side](images/hero.jpg)
+*Concept mockup (a photo edited to show the finished frame), not a photo of a finished build. The calendar shown is a sample.*
+
 ![Exploded view from the front](images/exploded_front.png)
 
 > ## Status: designed and checked, **not yet built**
